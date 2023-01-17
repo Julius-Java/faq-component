@@ -4,11 +4,9 @@
     box-sizing: border-box;
 }
 
-html {
-    height: 100%;
-}
 
 body {
+    height: 100%;
     min-height: 100vh;
     background: linear-gradient(to top, hsl(240, 73%, 65%) 30%, hsl(273, 75%, 66%) 100%);
     background-repeat: no-repeat;
